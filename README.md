@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Anitas kitchen
 
 [Click here to view deployed site ](https://example.com)
