@@ -13,7 +13,7 @@ Authors: [Marcelline](gmercylyne@gmail.com)
 
 ## Description
 
-A page utilizing javascript objects and prototypes that displays a user's movie ticket price depending on movie,time and age selected.
+A page utilizing css and bootstrap to create a website.
 
 
 ### Technologies Used
